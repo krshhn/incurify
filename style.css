@@ -126,6 +126,10 @@ span img {
   -webkit-transform: translateY(-1px);
   transform: translateY(-5px);
 }
+.twt :hover {
+  -webkit-transform: translateY(-1px);
+  transform: translateY(-5px);
+}
 
 .custom-button {
   background-color: rgb(36, 37, 42);
